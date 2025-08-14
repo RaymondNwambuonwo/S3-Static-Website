@@ -66,3 +66,6 @@ npm run build
 - AWS CLI automation for Infrastructure as Code and deployment pipelines
 - Cloud security fundamentals including CORS policies and access controls
 - Cost management strategies with automated resource cleanup procedures
+
+## Deployed Site
+http://security-dashboard-1755197126.s3-website-us-east-1.amazonaws.com/
